@@ -1,0 +1,26 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 683px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-top: 0;
+  margin-bottom: 60px;
+  min-height: 672px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+  }
+}#login .container #login-row #login-column #login-box {
+    margin-bottom: 120px;
+    max-width: 100%;
+    border-radius: 1%;
+    border: 1px solid#ffc107;
+    background-color:#ffc107;
+  }
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+#login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
